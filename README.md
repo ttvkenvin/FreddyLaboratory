@@ -9,8 +9,6 @@ Fun little game to help the blame doctor collect pills and do experiments
 3, let the ball fall into the experimental bottle
 
 #Screenshot
-![video](https://github.com/ttvkenvin/FreddyLaboratory/blob/master/Freddy.MP4)
-
 ![image](https://github.com/ttvkenvin/FreddyLaboratory/blob/master/1.png)
 ![image](https://github.com/ttvkenvin/FreddyLaboratory/blob/master/2.png)
 ![image](https://github.com/ttvkenvin/FreddyLaboratory/blob/master/3.png)
